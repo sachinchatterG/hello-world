@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+hi friends,
+    sachin here to learn
